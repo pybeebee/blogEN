@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Affective Computing in a Nutshell</title>
+	<atom:link href="http://192.168.10.124/2017/01/21/affective-computing-in-a-nutshell/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Fresh Topics in Mathematics and Artificial Intelligence</description>
+	<lastBuildDate>Sat, 20 Oct 2018 20:59:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Training a Physiologically Based Model for Emotion Recognition &#8211; pyBeeBee</title>
+		<link>./../index.html#comment-3</link>
+		<dc:creator><![CDATA[Training a Physiologically Based Model for Emotion Recognition &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 22:52:13 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=142#comment-3</guid>
+		<description><![CDATA[[&#8230;] back to the presently one-way street of human-computer interactions (referenced here), we might notice that the computers (and most robots) of today are incapable of recognizing facial [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] back to the presently one-way street of human-computer interactions (referenced here), we might notice that the computers (and most robots) of today are incapable of recognizing facial [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

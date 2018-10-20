@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for pybeebee</title>
+	<atom:link href="http://192.168.10.124/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Fresh Topics in Mathematics and Artificial Intelligence</description>
+	<lastBuildDate>Sat, 20 Oct 2018 20:59:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Comment on Hello world! by A WordPress Commenter</title>
+		<link>./../../2018/10/20/hello-world/index.html#comment-1</link>
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Sat, 20 Oct 2018 20:59:54 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+		<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Training a Physiologically Based Model for Emotion Recognition by Teaching ARGO to Generate Emotions using Machine Learning</title>
+		<link>./../../2017/03/11/training-a-physiologically-based-model-for-emotion-recognition/index.html#comment-7</link>
+		<dc:creator><![CDATA[Teaching ARGO to Generate Emotions using Machine Learning]]></dc:creator>
+		<pubDate>Wed, 03 Jan 2018 16:53:49 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-7</guid>
+		<description><![CDATA[[&#8230;] be used to train a model to do this. Specifically, a discriminative model of emotion (discussed in this post) can be used to train a generative model that allows ARGO to learn to generate expressions of [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] be used to train a model to do this. Specifically, a discriminative model of emotion (discussed in this post) can be used to train a generative model that allows ARGO to learn to generate expressions of [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Training a Physiologically Based Model for Emotion Recognition by Delivery! Python-Compatible Packages for Emotion Recognition</title>
+		<link>./../../2017/03/11/training-a-physiologically-based-model-for-emotion-recognition/index.html#comment-6</link>
+		<dc:creator><![CDATA[Delivery! Python-Compatible Packages for Emotion Recognition]]></dc:creator>
+		<pubDate>Wed, 03 Jan 2018 16:45:53 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-6</guid>
+		<description><![CDATA[[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Delivery! Python-Compatible Packages for Emotion Recognition by Training a Physiologically Based Model for Emotion Recognition</title>
+		<link>./../../2017/05/27/delivery-python-compatible-packages-for-emotion-recognition/index.html#comment-9</link>
+		<dc:creator><![CDATA[Training a Physiologically Based Model for Emotion Recognition]]></dc:creator>
+		<pubDate>Wed, 03 Jan 2018 16:43:25 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=269#comment-9</guid>
+		<description><![CDATA[[&#8230;] For my ventures with emotion recognition, I used the face detector and 68-point facial landmarking model provided by Dlib, an open-source package. For more about how to install and use Dlib and how the face detector works, visit here. [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] For my ventures with emotion recognition, I used the face detector and 68-point facial landmarking model provided by Dlib, an open-source package. For more about how to install and use Dlib and how the face detector works, visit here. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Training a Physiologically Based Model for Emotion Recognition by Anthropomorphic Facial Emotion Generation through Machine Learning &#8211; pyBeeBee</title>
+		<link>./../../2017/03/11/training-a-physiologically-based-model-for-emotion-recognition/index.html#comment-5</link>
+		<dc:creator><![CDATA[Anthropomorphic Facial Emotion Generation through Machine Learning &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 28 May 2017 01:11:44 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-5</guid>
+		<description><![CDATA[[&#8230;] anthropomorphic facial expressions. Specifically, the discriminative model of emotion (discussed in this post) will be used to train the generative [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] anthropomorphic facial expressions. Specifically, the discriminative model of emotion (discussed in this post) will be used to train the generative [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Meet ARGO! Part 2 by Arthur Hertz</title>
+		<link>./../../2017/09/02/meet-argo-part-2/index.html#comment-10</link>
+		<dc:creator><![CDATA[Arthur Hertz]]></dc:creator>
+		<pubDate>Thu, 18 May 2017 13:56:57 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=422#comment-10</guid>
+		<description><![CDATA[Yay dude this is so cool! I&#039;m really excited to find out what method you used.]]></description>
+		<content:encoded><![CDATA[<p>Yay dude this is so cool! I&#8217;m really excited to find out what method you used.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Delivery! Python-Compatible Packages for Emotion Recognition by Training a Physiologically Based Model for Emotion Recognition &#8211; pyBeeBee</title>
+		<link>./../../2017/05/27/delivery-python-compatible-packages-for-emotion-recognition/index.html#comment-8</link>
+		<dc:creator><![CDATA[Training a Physiologically Based Model for Emotion Recognition &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 23:24:46 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=269#comment-8</guid>
+		<description><![CDATA[[&#8230;] For my ventures with emotion recognition, I used the face detector and 68-point facial landmarking model provided by Dlib, an open-source package. For more about how to install and use Dlib and how the face detector works, visit here. [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] For my ventures with emotion recognition, I used the face detector and 68-point facial landmarking model provided by Dlib, an open-source package. For more about how to install and use Dlib and how the face detector works, visit here. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Training a Physiologically Based Model for Emotion Recognition by Delivery! Python-Compatible Packages for Emotion Recognition &#8211; pyBeeBee</title>
+		<link>./../../2017/03/11/training-a-physiologically-based-model-for-emotion-recognition/index.html#comment-4</link>
+		<dc:creator><![CDATA[Delivery! Python-Compatible Packages for Emotion Recognition &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 23:21:56 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-4</guid>
+		<description><![CDATA[[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Affective Computing in a Nutshell by Training a Physiologically Based Model for Emotion Recognition &#8211; pyBeeBee</title>
+		<link>./../../2017/01/21/affective-computing-in-a-nutshell/index.html#comment-3</link>
+		<dc:creator><![CDATA[Training a Physiologically Based Model for Emotion Recognition &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 22:52:13 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=142#comment-3</guid>
+		<description><![CDATA[[&#8230;] back to the presently one-way street of human-computer interactions (referenced here), we might notice that the computers (and most robots) of today are incapable of recognizing facial [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] back to the presently one-way street of human-computer interactions (referenced here), we might notice that the computers (and most robots) of today are incapable of recognizing facial [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Lie to Me: Micro-expressions Explained by Breaking Down the Facial Action Coding System (FACS) &#8211; pyBeeBee</title>
+		<link>./../../2016/10/15/lie-to-me-micro-expressions-explained/index.html#comment-2</link>
+		<dc:creator><![CDATA[Breaking Down the Facial Action Coding System (FACS) &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 20:14:10 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=29#comment-2</guid>
+		<description><![CDATA[[&#8230;] is a tool devised by Ekman and Friesen (previously referenced here) in 1978 that maps out any observable movement of the face through Action Units (AUs). These [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] is a tool devised by Ekman and Friesen (previously referenced here) in 1978 that maps out any observable movement of the face through Action Units (AUs). These [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

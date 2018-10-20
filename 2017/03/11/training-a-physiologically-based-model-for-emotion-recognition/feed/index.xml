@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Training a Physiologically Based Model for Emotion Recognition</title>
+	<atom:link href="http://192.168.10.124/2017/03/11/training-a-physiologically-based-model-for-emotion-recognition/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Fresh Topics in Mathematics and Artificial Intelligence</description>
+	<lastBuildDate>Sat, 20 Oct 2018 20:59:54 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Teaching ARGO to Generate Emotions using Machine Learning</title>
+		<link>./../index.html#comment-7</link>
+		<dc:creator><![CDATA[Teaching ARGO to Generate Emotions using Machine Learning]]></dc:creator>
+		<pubDate>Wed, 03 Jan 2018 16:53:49 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-7</guid>
+		<description><![CDATA[[&#8230;] be used to train a model to do this. Specifically, a discriminative model of emotion (discussed in this post) can be used to train a generative model that allows ARGO to learn to generate expressions of [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] be used to train a model to do this. Specifically, a discriminative model of emotion (discussed in this post) can be used to train a generative model that allows ARGO to learn to generate expressions of [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Delivery! Python-Compatible Packages for Emotion Recognition</title>
+		<link>./../index.html#comment-6</link>
+		<dc:creator><![CDATA[Delivery! Python-Compatible Packages for Emotion Recognition]]></dc:creator>
+		<pubDate>Wed, 03 Jan 2018 16:45:53 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-6</guid>
+		<description><![CDATA[[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Anthropomorphic Facial Emotion Generation through Machine Learning &#8211; pyBeeBee</title>
+		<link>./../index.html#comment-5</link>
+		<dc:creator><![CDATA[Anthropomorphic Facial Emotion Generation through Machine Learning &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 28 May 2017 01:11:44 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-5</guid>
+		<description><![CDATA[[&#8230;] anthropomorphic facial expressions. Specifically, the discriminative model of emotion (discussed in this post) will be used to train the generative [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] anthropomorphic facial expressions. Specifically, the discriminative model of emotion (discussed in this post) will be used to train the generative [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Delivery! Python-Compatible Packages for Emotion Recognition &#8211; pyBeeBee</title>
+		<link>./../index.html#comment-4</link>
+		<dc:creator><![CDATA[Delivery! Python-Compatible Packages for Emotion Recognition &#8211; pyBeeBee]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2017 23:21:56 +0000</pubDate>
+		<guid isPermaLink="false">https://pybeebee.wordpress.com/?p=184#comment-4</guid>
+		<description><![CDATA[[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Given all the complications that may arise, I have written an simple guide for installation of the OpenCV and Dlib packages with Python compatibility for the development of an affective computer system (detailed in a previous post). [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
